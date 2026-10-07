@@ -1,5 +1,7 @@
 {
-  "name": "reyes-portfolio",
+  "name": "portfolio",
   "compatibility_date": "2026-10-06",
-  "assets": { "directory": "." }
+  "assets": {
+    "directory": "."
+  }
 }
