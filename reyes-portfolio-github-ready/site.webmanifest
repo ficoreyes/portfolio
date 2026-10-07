@@ -1,9 +1,0 @@
-{
-  "name": "REYES Infrastructure Portfolio",
-  "short_name": "REYES",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#061018",
-  "theme_color": "#07131d",
-  "icons": []
-}
